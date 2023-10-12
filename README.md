@@ -1,7 +1,8 @@
 # Master Frontend XII Lemoncode 🍋
 
 ## Module 7 CLOUD
-### básico parte 1
+
+### básico parte 2
 
 <br>
 
@@ -13,9 +14,10 @@
 
 <br>
 
-### Parte básica - 1
+### Parte básica - 2
+
 <ol>
-    <li>✅ Desplegar en Github Pages de forma manual</li>
+    <li>✅ Automatizar el proceso de despliegue</li>
 </ol>
 
-[Web gh-pages](https://migueljiro.github.io/Master-Frontend-XII-Lemoncode-Module-7-Cloud-Basico-1/)
+[Web gh-pages](https://migueljiro.github.io/Master-Frontend-XII-Lemoncode-Module-7-Cloud-Basico-2/)
