@@ -30,4 +30,4 @@ jobs:
         run: npm run build
 
       - name: Deploy
-        run: npm run deploy --r git@github.com:MiguelJiRo/Master-Frontend-XII-Lemoncode-Module-7-Cloud-Basico-2.git
+        run: npm run deploy -- -r git@github.com:MiguelJiRo/Master-Frontend-XII-Lemoncode-Module-7-Cloud-Basico-2.git
