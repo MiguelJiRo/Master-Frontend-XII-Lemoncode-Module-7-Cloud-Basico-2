@@ -17,7 +17,7 @@
 ### Parte básica - 2
 
 <ol>
-    <li>✅ Automatizar el proceso de despliegue</li>
+    <li>✅ Automatizar el proceso de despliegue.</li>
 </ol>
 
 <br>
